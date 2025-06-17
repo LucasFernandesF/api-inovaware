@@ -14,6 +14,3 @@ Esta API estima o tempo de deslocamento com base na distância e velocidade méd
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
-
-
-Teste1 
